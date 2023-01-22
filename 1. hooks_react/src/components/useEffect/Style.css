@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.count{
+    font-size: 6rem !important;
+    margin: 0px 20px !important;
+}
+.icon{
+    font-size: 3rem !important;
+    background-color: black;
+    color: white;
+}
+
+
+.heading{
+    font-size: 3rem;
+    color: #2e86c1;
+}
